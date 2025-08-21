@@ -1,0 +1,6 @@
+instrctions:
+1.create github acc
+2.create repo
+3.push the file
+4.commit the changes
+5.signout
